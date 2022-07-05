@@ -1,0 +1,7 @@
+# Register self as a client to discovery server peer2. Update C:\Windows\System32\drivers\etc wnen using Windows.
+eureka:
+  instance:
+    hostname: peer1
+  client:
+    service-url:
+      defaultZone: http://peer2:8762/eureka/
