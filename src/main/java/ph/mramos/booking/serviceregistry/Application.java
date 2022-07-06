@@ -1,4 +1,4 @@
-package ph.mramos.booking.discoveryserver;
+package ph.mramos.booking.serviceregistry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

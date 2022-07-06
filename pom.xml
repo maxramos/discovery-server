@@ -10,7 +10,7 @@
 	</parent>
 	
 	<groupId>ph.mramos.booking</groupId>
-	<artifactId>discovery-server</artifactId>
+	<artifactId>service-registry</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	
 	<properties>
